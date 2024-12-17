@@ -10,6 +10,9 @@ This Python script uses **Selenium** and **BeautifulSoup** to scrape builder inf
 - Handles dynamic content loaded via JavaScript using Selenium.
 - Saves extracted data to a **CSV file** for easy access and analysis.
 - Includes error handling for missing or incomplete data.
+- For reference, the script is designed to work with the Ontario Home Builder Directory:  
+[Ontario Builder Search](https://obd.hcraontario.ca/buildersearchresults).
+
 
 ---
 
